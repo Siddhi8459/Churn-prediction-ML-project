@@ -103,6 +103,11 @@ python main.py
 
 ---
 
-## 👤 Author
+## 📈 Model Performance
+- Accuracy: 85% (example)
+- Precision: 82%
+- Recall: 80%
 
-Built for the PharmEasy Data Science Internship application.
+## 📊 Insights
+- Customers with low usage are more likely to churn
+- Monthly subscription users have higher churn rate
