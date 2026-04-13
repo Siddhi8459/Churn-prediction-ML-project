@@ -1,4 +1,4 @@
-# 💊 PharmEasy Drug Demand Forecasting & Customer Churn Prediction
+# 💊 PharmasyDrug Demand Forecasting & Customer Churn Prediction
 
 A full end-to-end Machine Learning project built as a portfolio submission for the **PharmEasy Data Science Internship**. It demonstrates skills in data analysis, feature engineering, ML model building, and visualization — exactly what the JD requires.
 
