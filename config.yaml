@@ -1,0 +1,23 @@
+data:
+  raw_path: "data/raw/"
+  processed_path: "data/processed/"
+  n_customers: 5000
+  n_products: 50
+  date_start: "2022-01-01"
+  date_end: "2024-12-31"
+
+model:
+  test_size: 0.2
+  random_state: 42
+  demand_model:
+    n_estimators: 200
+    max_depth: 6
+    learning_rate: 0.05
+  churn_model:
+    n_estimators: 150
+    max_depth: 5
+    class_weight: "balanced"
+
+output:
+  model_path: "models/"
+  figures_path: "figures/"
