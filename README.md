@@ -111,3 +111,14 @@ python main.py
 ## 📊 Insights
 - Customers with low usage are more likely to churn
 - Monthly subscription users have higher churn rate
+## ⚙️ Pipeline
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Evaluation
+- Prediction
+## 📊 Visualization
+
+<img width="640" height="480" alt="churn_distribution" src="https://github.com/user-attachments/assets/5d0fc55a-2b9f-4ba7-baa7-56665630ec73" />
+
+
